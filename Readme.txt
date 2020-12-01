@@ -5,7 +5,7 @@ Am facut mai multe functie unde am vazut
 ca trebuie sa scriu mai multe lin de code .
 
 my_itoa:
-e o functie care ma ajuta sa transfor 
+e o functie care ma ajuta sa transforma 
 string in int si e legata de functia 
 printInt , la functia asta ma picat tot timpu un test
 si trebuia sa folosesc o variabila de tip long long, 
@@ -47,7 +47,7 @@ strlen in length a fisezi cu functia write_stdout si returnezi length .
 iocla_printf:
 Am folosit  va_list args si  va_start cum a fost explicat in enunti ,
 aloc memorie dinmaica pentru buffer care sa fie suficienta pentru a nu 
-da overflow , verific cu if si elfesle fie care caz ,
+da overflow , verific cu if si else if la fie care caz ,
 afisezi bufferul cu write_stdout si eliberezi mermoria,returnezi lenMax la sfercit.
 
 
